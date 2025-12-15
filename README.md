@@ -1,10 +1,13 @@
 # starraildream
+#!!!!!!!!!!! []안 내용은 지우고 쓰세요 !!!!!!!!!!!
+#!!!!!!!!!!! <style> 태그 건들지 마세요 !!!!!!!!!!!
+#!!!!!!!!!!! 만져도 되는 것 = color: #~~~~~ // HTML 컬러 코드 사용하세요 !!!!!!!!!!!
 
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8" />
-<title>파루시아</title>
+<title>[캐릭터 이름]</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 
@@ -95,7 +98,7 @@ main {
 <body>
   <div class="wiki-content">
   <header class="wiki-header">
-  <h1>파루시아 <span class="en">parousia</span></h1>
+  <h1>[캐릭터 이름] <span class="en">parousia</span></h1>
   <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
 </header>
   
@@ -107,13 +110,13 @@ main {
   <img src="img/parousia.png" alt="파루시아">
 
   <table class="infobox-table">
-    <tr><th>이름</th><td>파루시아</td></tr>
-    <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
-    <tr><th>성별</th><td>여성</td></tr>
-    <tr><th>소속</th><td>차원 방랑자</td></tr>
-    <tr><th>속성</th><td>허수</td></tr>
-    <tr><th>운명의 길</th><td>지식</td></tr>
-    <tr><th>출시일</th><td>2025-11-11</td></tr>
+    <tr><th>이름</th><td>[캐릭터 이름]</td></tr>
+    <tr><th>본명</th><td>[삭제가능, 캐릭터 본명]</td></tr>
+    <tr><th>성별</th><td>[여성/남성]</td></tr>
+    <tr><th>소속</th><td>[소속]</td></tr>
+    <tr><th>속성</th><td>[속성]</td></tr>
+    <tr><th>운명의 길</th><td>[운명의 길]</td></tr>
+    <tr><th>출시일</th><td>[출시일]</td></tr>
   </table>
 </aside>
 
@@ -143,10 +146,10 @@ main {
   <section id="overview">
       <h2><span class="wiki-blue">1.</span> 개요</h2>
       <blockquote>
-        <p>「그대의 최초의 교파는 멸망했다」</p>
+        <p>[「대사1」]</p>
       </blockquote>
       <p>
-        「신이 없으면 신앙심도 무의미 하죠. 이건 당연한 논리입니다.」
+        [「대사2」]
         </p>
     </section>
 
@@ -175,27 +178,27 @@ main {
       </section>
 
   <section id="attack">
-  <h4><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h4>
+  <h4><span class="wiki-blue">3.2.1.</span> 일반공격: [스킬 이름]</h4>
 <div class="skill">
-      <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
+      <p>[스킬 설명</p>
       </div>
 
 <section id="attack2">
-  <h4><span class="wiki-blue">3.2.2.</span> 전투 스킬: 진리의 선도자</h4>
+  <h4><span class="wiki-blue">3.2.2.</span> 전투 스킬: [스킬 이름]</h4>
   <div class="skill">
-    <p>모든 적에게 허수 속성 피해</p>
+    <p>[스킬 설명]</p>
       </div>
 
   <section id="attack3">
-    <h4><span class="wiki-blue">3.2.3.</span> 필살기: 가장 고결했던 진리의 잔향</h4>
+    <h4><span class="wiki-blue">3.2.3.</span> 필살기: [스킬 이름]</h4>
   <div class="skill">
-      <p>에너지 90 소모, 전체 공격</p>
+      <p>[스킬 설명]</p>
       </div>
 
   <section id="attack4">
-    <h4><span class="wiki-blue">3.2.4.</span> 강화 필살기: 빛이 영면에 드는 빙법</h4>
+    <h4><span class="wiki-blue">3.2.4.</span> 강화 필살기: [스킬 이름]</h4>
   <div class="skill highlight">
-      <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
+      <p>[스킬 설명]</p>
       </div>
     </section>
 
@@ -203,13 +206,13 @@ main {
 <section id="eidolon">
       <h2><span class="wiki-blue">3.3.</span> 성혼</h2>
       <ol>
-        <li>영원한 진리</li>
-        <li>이데아의 현상계</li>
-        <li>형상의 구조</li>
-        <li>부정과 진리</li>
-        <li>성령의 열매</li>
-        <li>최초의 「빛」을 안는 법</li>
-      </ol>
+        <li>[성혼 이름]></li
+        <li>[성혼 이름]</li
+        <li>[성혼 이름]></li
+        <li>[성혼 이름]</li
+        <li>[성혼 이름]></li
+        <li>[성혼 이름]</li
+       </ol>
     </section>
 
    <section id="information">
@@ -221,49 +224,49 @@ main {
   <details>
     <summary><b>[상호작용]</b></summary>
     <table>
-      <tr><th>첫 만남</th><td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 선도자입니다. 잊지 말아주세요</td></tr>
-      <tr><th>인사</th><td></td></tr>
-      <tr><th>작별</th><td></td></tr>
-      <tr><th>자신에 대해</th><td></td></tr>
-      <tr><th>잡담</th><td></td></tr>
-      <tr><th>취미</th><td></td></tr>
-      <tr><th>고민</th><td></td></tr>
-      <tr><th>공유</th><td></td></tr>
-      <tr><th>권유</th><td></td></tr>
-      <tr><th>성흔 활성화</th><td></td></tr>
-      <tr><th>캐릭터 승급</th><td></td></tr>
-      <tr><th>캐릭터 최고 레벨</th><td></td></tr>
-      <tr><th>행적 활성화</th><td></td></tr>
-      <tr><th>파티 편성 뫄뫄</th><td></td></tr>
+      <tr><th>첫 만남</th><td>[첫만남]</td></tr>
+      <tr><th>인사</th><td>[인사]</td></tr>
+      <tr><th>작별</th><td>[작별]</td></tr>
+      <tr><th>자신에 대해</th><td>[자신에 대해]</td></tr>
+      <tr><th>잡담</th><td>[잡담]</td></tr>
+      <tr><th>취미</th><td>[취미]</td></tr>
+      <tr><th>고민</th><td>[고민]</td></tr>
+      <tr><th>공유</th><td>[공유]</td></tr>
+      <tr><th>권유</th><td>[권유]</td></tr>
+      <tr><th>성흔 활성화</th><td>[성흔 활성화]</td></tr>
+      <tr><th>캐릭터 승급</th><td>[캐릭터 승급]</td></tr>
+      <tr><th>캐릭터 최고 레벨</th><td>[캐릭터 최고 레벨]</td></tr>
+      <tr><th>행적 활성화</th><td>[행적 활성화]</td></tr>
+      <tr><th>파티 편성 뫄뫄</th><td>[파티 편성 뫄뫄]</td></tr>
     </table>
   </details>
 
   <details>
     <summary><b>[전투]</b></summary>
     <table>
-      <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
-      <tr><th>전투 시작 위험 경보</th><td></td></tr>
-      <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
-      <tr><th>턴 시작 2</th><td></td></tr>
-      <tr><th>턴 대기</th><td></td></tr>
-      <tr><th>전투 스킬 1</th><td></td></tr>
-      <tr><th>전투 스킬 2</th><td></td></tr>
-      <tr><th>약공격 피격</th><td></td></tr>
-      <tr><th>강공격 피격</th><td></td></tr>
-      <tr><th>필살기 활성화</th><td></td></tr>
-      <tr><th>필살기 발동</th><td></td></tr>
-      <tr><th>전투 불능</th><td></td></tr>
-      <tr><th>전투 복귀</th><td></td></tr>
-      <tr><th>HP 회복</th><td></td></tr>
-      <tr><th>비술</th><td></td></tr>
-      <tr><th>전투 승리</th><td></td></tr>
-      <tr><th>전리품 오픈 1</th><td></td></tr>
-      <tr><th>전리품 오픈 2</th><td></td></tr>
-      <tr><th>진귀한 전리품 오픈</th><td></td></tr>
-      <tr><th>수수께끼 풀이 성공 1</th><td></td></tr>
-      <tr><th>수수께끼 풀이 성공 2</th><td></td></tr>
-      <tr><th>적 발견</th><td></td></tr>
-      <tr><th>도시로 복귀</th><td></td></tr>
+      <tr><th>전투 시작 약점 격파</th><td>[글]</td></tr>
+      <tr><th>전투 시작 위험 경보</th><td>[글]</td></tr>
+      <tr><th>턴 시작 1</th><td>[글]</td></tr>
+      <tr><th>턴 시작 2</th><td>[글]</td></tr>
+      <tr><th>턴 대기</th><td>[글]</td></tr>
+      <tr><th>전투 스킬 1</th><td>[글]</td></tr>
+      <tr><th>전투 스킬 2</th><td>[글]</td></tr>
+      <tr><th>약공격 피격</th><td>[글]</td></tr>
+      <tr><th>강공격 피격</th><td>[글]</td></tr>
+      <tr><th>필살기 활성화</th><td>[글]</td></tr>
+      <tr><th>필살기 발동</th><td>[글]</td></tr>
+      <tr><th>전투 불능</th><td>[글]</td></tr>
+      <tr><th>전투 복귀</th><td>[글]</td></tr>
+      <tr><th>HP 회복</th><td>[글]</td></tr>
+      <tr><th>비술</th><td>[글]</td></tr>
+      <tr><th>전투 승리</th><td>[글]</td></tr>
+      <tr><th>전리품 오픈 1</th><td>[글]</td></tr>
+      <tr><th>전리품 오픈 2</th><td>[글]</td></tr>
+      <tr><th>진귀한 전리품 오픈</th><td>[글]</td></tr>
+      <tr><th>수수께끼 풀이 성공 1</th><td>[글]</td></tr>
+      <tr><th>수수께끼 풀이 성공 2</th><td>[글]</td></tr>
+      <tr><th>적 발견</th><td>[글]</td></tr>
+      <tr><th>도시로 복귀</th><td>[글]</td></tr>
     </table>
   </details>
 </section>
