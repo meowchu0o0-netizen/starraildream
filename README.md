@@ -134,10 +134,10 @@ main {
     <li class="lv1"><a href="#ingame">3. 인게임 정보</a></li>
     <li class="lv2"><a href="#attribute">3.1. 속성</a></li>
     <li class="lv2"><a href="#attribute2">3.2. 행적</a></li>
-    <li class="lv3"><a href="#attack">3.2.1. 일반공격</a></li>
-    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬</a></li>
-    <li class="lv3"><a href="#attack3">3.2.3. 필살기</a></li>
-    <li class="lv3"><a href="#attack4">3.2.4. 강화 필살기</a></li>
+    <li class="lv3"><a href="#attack">3.2.1. 일반공격: 논증 방법</a></li>
+    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬: 진리의 선도자</a></li>
+    <li class="lv3"><a href="#attack3">3.2.3. 필살기: 가장 고결했던 진리의 잔향</a></li>
+    <li class="lv3"><a href="#attack4">3.2.4. 특성: 빛이 영면에 드는 빙법</a></li>
     <li class="lv1"><a href="#eidolon">3.3. 성혼</a></li>
     <li class="lv1"><a href="#information">3.4. 정보</a></li>
     <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
