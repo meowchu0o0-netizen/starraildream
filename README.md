@@ -234,14 +234,72 @@ main {
 
   <!-- 버튼 (왼쪽 정렬) -->
   <div style="margin: 20px 0;">
-    <button onclick="location.href='#attribute'">속성</button>
-    <button onclick="location.href='#voice'">음성</button>
-    <button onclick="location.href='#story'">이야기</button>
-    <button onclick="location.href='#attack'">행적</button>
-    <button onclick="location.href='#eidolon'">성혼</button>
-  </div>
+  <button
+    onclick="location.href='#attribute'"
+    style="
+      background-color:#4f5bd5;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >속성</button>
 
-</section>
+  <button
+    onclick="location.href='#voice'"
+    style="
+      background-color:#4f5bd5;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >음성</button>
+
+  <button
+    onclick="location.href='#story'"
+    style="
+      background-color:#4f5bd5;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >이야기</button>
+
+  <button
+    onclick="location.href='#attack'"
+    style="
+      background-color:#4f5bd5;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >행적</button>
+
+  <button
+    onclick="location.href='#eidolon'"
+    style="
+      background-color:#4f5bd5;
+      color:#ffffff;
+      border:none;
+      padding:6px 14px;
+      border-radius:6px;
+      font-weight:600;
+      cursor:pointer;
+    "
+  >성혼</button>
+</div>
+
 
   <blockquote><p>「신의 숨결이 끊기자 신정제 기반의 행성은 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하면서 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
       
