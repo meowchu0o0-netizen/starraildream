@@ -648,7 +648,16 @@ main {
 
   <section id="relation">
   <h2><span class="wiki-blue">4.</span> 인간관계</h2>
+  <p>• 아젠티</p>
+  <p></p>
+  <p>• 아젠티</p>
+  <p></p>
+  <p>• 아젠티</p>
+  <p></p>
+  <p>• 아젠티</p>
+  <p></p>
 
+  
 
   <footer class="wiki-footer">
     <p>parousia · Honkai: Star Rail</p>
