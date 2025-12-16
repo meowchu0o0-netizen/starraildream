@@ -523,15 +523,14 @@ main {
 
   <table class="wiki-table" style="border-collapse:collapse; width:100%;">
     <tr>
-      <th style="width:30%;">이야기</th>
-      <p style="
-        background:#9eecff;
-        color:#ffffff;
-        padding:12px;
-        margin:0;
-      ">
-      </p>
-    </tr>
+  <th colspan="2" style="
+    background:#9eecff;
+    color:#ffffff;
+    text-align:center;
+  ">
+    이야기
+  </th>
+</tr>
 
 <tr>
       <td colspan="2">
