@@ -142,6 +142,7 @@ main {
     <li class="lv1"><a href="#information">3.4. 정보</a></li>
     <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
     <li class="lv2"><a href="#story">3.4.2. 이야기</a></li>
+    <li class="lv1"><a href="#relation">4. 인간관계</a></li>
   </ul>
 </nav>
 
@@ -410,7 +411,7 @@ main {
       <tbody>
         <tr>
           <th>첫 만남</th>
-          <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의의 선도자입니다. 잊지 말아주세요</td>
+          <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td>
         </tr>
         <tr>
           <th>인사</th>
