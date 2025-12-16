@@ -412,12 +412,8 @@ main {
     <col>
   </colgroup>
 
+
   <tr>
-    <th colspan="2" style="text-align:center;">
-      음성
-    </th>
-  </tr>
-    <tr>
     <th colspan="2" style="
     background:#9eecff;
     color:#ffffff;
