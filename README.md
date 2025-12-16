@@ -312,6 +312,9 @@ main {
       </table>
       </section>
 
+  <section id="attribute2">
+  <h2><span class="wiki-blue">3.2.</span> 행적</h2>
+
   <section id="attack">
   <h2><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h2>
 <div class="skill">
@@ -404,7 +407,7 @@ main {
 <p></p>
 
 
-<section id="attribute2">
+
    <section id="information">
      <h2><span class="wiki-blue">3.4.</span> 정보</h2>
      
