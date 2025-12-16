@@ -139,7 +139,8 @@ main {
   <th colspan="2">
         <center>[드림주 이름]</center><br>
         <span class="sub"><center>[드림주 영문 이름]</center></span>
-    .infobox-title th {
+  
+.infobox-title th {
   border-bottom: 3px solid #cfd3ff; /* 원하는 색 */
   padding-bottom: 8px;
 }
