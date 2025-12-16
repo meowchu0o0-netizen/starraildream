@@ -306,8 +306,8 @@ main {
   <section id="attribute">
     <h2><span class="wiki-blue">3.1.</span> 속성</h2>
         <table class="wiki-table">
-        <tr><th>HP</th><th>공격력</th><th>방어력</th><th>속도</th></tr>
-        <tr><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+        <tr><th>승급</th><th><tr><th>레벨</th><tr><th>HP</th><tr><th>공격력</th><tr><th>방어력</th><tr><th>속도</th>
+        <tr><td>-</td><tr><td>-</td><tr><td>-</td><tr><td>-</td><tr><td>-</td><tr><td>-</td></tr>
       </table>
       </section>
 
