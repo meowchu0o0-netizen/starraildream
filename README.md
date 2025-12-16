@@ -340,7 +340,7 @@ main {
 
   <section id="attack4">
     <h2><span class="wiki-blue">3.2.4.</span> 특성: 빛이 영면에 드는 빙법</h2>
-  <div class="skill">
+  <div class="skill highlight">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
 
   <blockquote><p>무식은 죄 입니다. / 좀 더 노력해보세요<br>
