@@ -406,6 +406,17 @@ main {
   <h2><span class="wiki-blue">3.4.1.</span> 음성</h2>
 
   <table class="wiki-table" style="width:100%; border-collapse:collapse;">
+
+  <colgroup>
+    <col style="background:#9eecff; width:30%;">
+    <col>
+  </colgroup>
+
+  <tr>
+    <th colspan="2" style="text-align:center;">
+      음성
+    </th>
+  </tr>
     <tr>
     <th colspan="2" style="
     background:#9eecff;
