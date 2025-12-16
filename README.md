@@ -121,7 +121,7 @@ main {
     <tr><th>소속</th><td>차원 방랑자</td></tr>
     <tr><th>속성</th><td>허수</td></tr>
     <tr><th>운명의 길</th><td>지식</td></tr>
-    <tr><th>출시일</th><td>2025-11-15</td></tr>
+    <tr><th>언어별 표기</th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
   </table>
 </aside>
 
@@ -219,10 +219,10 @@ main {
     </tr>
     <tr>
       <th style="background:#fff; color:#000; border:none;">
-        언어별 표기
+        출시 일자
       </th>
       <td style="background:#fff; color:#000; border:none;">
-        파루시아<br>Parousia<br>法鲁西亚<br>パルシア
+        2025/11/15
       </td>
     </tr>
   </table>
