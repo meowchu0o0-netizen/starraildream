@@ -316,7 +316,7 @@ main {
 <div class="skill">
       <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
   
-   <blockquote><p>선의 이데이를 실현해보죠</p></blockquote>
+   <blockquote><p>선의 이데를 실현해보죠</p></blockquote>
       </div>
 
 <section id="attack2">
@@ -334,7 +334,8 @@ main {
       <p>에너지 90 소모, 전체 공격</p>
 
   <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
-  <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
+  <blockquote><p>인생은 지혜와 지식을 찾아가는 여정입니다(발동)
+  지혜와 지식을 위한 여정(배속)</p></blockquote>
       </div>
 
   <section id="attack4">
