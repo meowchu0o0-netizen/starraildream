@@ -334,16 +334,17 @@ main {
       <p>에너지 90 소모, 전체 공격</p>
 
   <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
-  <blockquote><p>인생은 지혜와 지식을 찾아가는 여정입니다(발동)
-  지혜와 지식을 위한 여정(배속)</p></blockquote>
+  <blockquote><p>인생은 지혜와 지식을 찾아가는 여정입니다(발동)<br>
+지혜와 지식을 위한 여정(배속)</p></blockquote>
       </div>
 
   <section id="attack4">
-    <h2><span class="wiki-blue">3.2.4.</span> 강화 필살기: 빛이 영면에 드는 빙법</h2>
+    <h2><span class="wiki-blue">3.2.4.</span> 특성: 빛이 영면에 드는 빙법</h2>
   <div class="skill highlight">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
 
-  <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
+  <blockquote><p>무식은 죄 입니다. / 좀 더 노력해보세요<br>
+  무식은 죄예요 / 좀 더 노력해 봐요.</p></blockquote>
       </div>
     </section>
 
