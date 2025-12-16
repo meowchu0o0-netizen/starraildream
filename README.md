@@ -384,14 +384,16 @@ main {
           <td>머지 않은 미래에 다시 만나요</td>
         </tr>
         <tr>
-          <th>자신에 대해•진리</th>
+          <th>자신에 대해•<br>
+            진리</th>
           <td>
             세상에 진리가 없는 것은 없습니다.
             어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요
           </td>
         </tr>
         <tr>
-          <th>잡담•신봉</th>
+          <th>잡담•<br>
+            신봉</th>
           <td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td>
         </tr>
         <tr>
@@ -425,8 +427,9 @@ main {
         <tr><th>성흔 활성화</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
         <tr><th>캐릭터 승급</th><td>깨달음에는 한계가 없습니다</td></tr>
         <tr><th>캐릭터 최고 레벨</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
-        <tr><th>행적 활성화</th><td></td></tr>
-        <tr><th>파티 편성 뫄뫄</th><td></td></tr>
+        <tr><th>행적 활성화</th><td>저는 그대의 가능성을 믿어요</td></tr>
+        <tr><th>파티 편성•<br>
+          뫄뫄</th><td></td></tr>
       </tbody>
     </table>
   </details>
@@ -435,27 +438,40 @@ main {
     <summary><b>[전투]</b></summary>
     <table>
       <tbody>
-        <tr><th>전투 시작 약점 격파</th><td>이제 편히 잠드시길</td></tr>
-        <tr><th>전투 시작 위험 경보</th><td></td></tr>
+        <tr><th>전투 시작•<br>
+          약점 격파</th><td>이제 편히 잠드시길</td></tr>
+        <tr><th>전투 시작<br>
+          위험 경보</th><td></td></tr>
         <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
         <tr><th>턴 시작 2</th><td></td></tr>
         <tr><th>턴 대기</th><td></td></tr>
-        <tr><th>전투 스킬 1</th><td></td></tr>
-        <tr><th>전투 스킬 2</th><td></td></tr>
+        <tr><th>전투 스킬•<br>
+          1</th><td></td></tr>
+        <tr><th>전투 스킬•<br>
+          2</th><td></td></tr>
         <tr><th>약공격 피격</th><td></td></tr>
         <tr><th>강공격 피격</th><td></td></tr>
-        <tr><th>필살기 활성화</th><td></td></tr>
-        <tr><th>필살기 발동</th><td></td></tr>
+        <tr><th>필살기•<br>
+          활성화</th><td></td></tr>
+        <tr><th>필살기•<br>
+          발동</th><td></td></tr>
         <tr><th>전투 불능</th><td></td></tr>
         <tr><th>전투 복귀</th><td></td></tr>
         <tr><th>HP 회복</th><td></td></tr>
         <tr><th>비술</th><td></td></tr>
         <tr><th>전투 승리</th><td></td></tr>
-        <tr><th>전리품 오픈 1</th><td></td></tr>
-        <tr><th>전리품 오픈 2</th><td></td></tr>
-        <tr><th>진귀한 전리품 오픈</th><td></td></tr>
-        <tr><th>수수께끼 풀이 성공 1</th><td></td></tr>
-        <tr><th>수수께끼 풀이 성공 2</th><td></td></tr>
+        <tr><th>전리품 오픈•<br>
+          1</th><td></td></tr>
+        <tr><th>전리품 오픈•<br>
+          2</th><td></td></tr>
+        <tr><th>진귀한<br>
+          전리품 오픈</th><td></td></tr>
+        <tr><th>수수께끼<br>
+          풀이 성공•<br>
+          1</th><td></td></tr>
+        <tr><th>수수께끼<br>
+          풀이 성공•<br>
+          2</th><td></td></tr>
         <tr><th>적 발견</th><td></td></tr>
         <tr><th>도시로 복귀</th><td></td></tr>
       </tbody>
