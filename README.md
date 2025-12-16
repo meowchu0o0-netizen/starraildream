@@ -366,7 +366,7 @@ main {
 
 
   <footer class="wiki-footer">
-    <p>NOT Hoyoverse /Fan made wiki page · Honkai: Star Rail</p>
+    <p>Fan made wiki page · Honkai: Star Rail / ©츄야(오네)</p>
   </footer>
 
   <script src="js/toggle.js"></script>
