@@ -353,9 +353,10 @@ main {
     </td>
   </tr>
 
+  <table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
-    <td style="padding-top:20px;">
-      <img src="이미지4.jpg" style="width:120px;"><br>
+    <td>
+      <img src="이미지1.jpg" style="width:120px;"><br>
       <b>4</b><br>
       너 자신을<br>알라
     </td>
