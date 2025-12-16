@@ -315,24 +315,34 @@ main {
   <h2><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h2>
 <div class="skill">
       <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
+  
+   <blockquote><p>선의 이데이를 실현해보죠</p></blockquote>
       </div>
 
 <section id="attack2">
   <h2><span class="wiki-blue">3.2.2.</span> 전투 스킬: 진리의 선도자</h2>
   <div class="skill">
     <p>모든 적에게 허수 속성 피해</p>
+
+  <blockquote><p>최초의 원형을 알아볼까요 / 진리의 실현을 위해!</p></blockquote>
+  <blockquote><p>최초의 이상향을(배속) / 진리를 위해!(배속)</p></blockquote>
       </div>
 
   <section id="attack3">
     <h2><span class="wiki-blue">3.2.3.</span> 필살기: 가장 고결했던 진리의 잔향</h2>
   <div class="skill">
       <p>에너지 90 소모, 전체 공격</p>
+
+  <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
+  <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
       </div>
 
   <section id="attack4">
     <h2><span class="wiki-blue">3.2.4.</span> 강화 필살기: 빛이 영면에 드는 빙법</h2>
   <div class="skill highlight">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
+
+  <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
       </div>
     </section>
 
