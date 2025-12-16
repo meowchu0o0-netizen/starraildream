@@ -137,7 +137,7 @@ main {
     
   <tr class="infobox-title">
       <th colspan="2">
-        [드림주 이름]<br>
+        <center>[드림주 이름]</center><br>
         <span class="sub">[드림주 영문 이름]</span>
       </th>
     </tr>
