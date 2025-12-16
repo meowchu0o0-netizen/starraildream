@@ -348,11 +348,6 @@ main {
       </div>
     </section>
 
-  <section id="attack4">
-    <h2><span class="wiki-blue">3조
-    </td>
-  </tr>
-
   <table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
     <td>
