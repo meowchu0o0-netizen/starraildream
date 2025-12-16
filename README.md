@@ -107,14 +107,15 @@ main {
   <table class="infobox-table">
     <tr class="infobox-title">
       <th colspan="2">
+         <img src="이미지주소.jpg" alt="파루시아">
         <center>파루시아</center><br>
         <span class="sub"><center>Parousia</center></span>
       </th>
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
-        <img src="이미지주소.jpg" alt="파루시아">
-      </td>
+  
+  </td>
     </tr>
     <tr><th>이름</th><td>파루시아</td></tr>
     <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
