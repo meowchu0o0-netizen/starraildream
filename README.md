@@ -183,7 +183,6 @@ main {
 </div>
 
 <aside class="infobox">
-  <img src="이미지주소.jpg" alt="파루시아">
 
   <table class="infobox-table" style="border-collapse: collapse; border: none;">
     <tr>
