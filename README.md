@@ -390,13 +390,21 @@ main {
   </tr>
 </table>
 
-<p>성혼 1 - 온전함을 추구하리</p>
-<p>성혼 2 - 이데아의 현상</p>
-<p>성혼 3 - 형상의 구조</p>
-<p>성혼 4 - 너 자신을 알라</p>
-<p>성혼 5 - 암야에서는 빛을 추구하라</p>
-<p>성혼 6 - 최초의 「빛」을 안는 법</p>
+<p>• 성혼 1 - <b>온전함을 추구하리</b></p>
+<p></p>
+<p>• 성혼 2 - <b>이데아의 현상</b></p>
+<p></p>
+<p>• 성혼 3 - <b>형상의 구조</b></p>
+<p></p>
+<p>• 성혼 4 - <b>너 자신을 알라</b></p>
+<p></p>
+<p>• 성혼 5 - <b>암야에서는 빛을 추구하라</b></p>
+<p></p>
+<p>• 성혼 6 - <b>최초의 「빛」을 안는 법</b></p>
+<p></p>
 
+
+<section id="attribute2">
    <section id="information">
      <h2><span class="wiki-blue">3.4.</span> 정보</h2>
      
@@ -444,10 +452,10 @@ main {
 <tr><th class="voice-header">작별</th>
 <td>머지 않은 미래에 다시 만나요</td></tr>
 
-<tr><th class="voice-header">자신에 대해<br>• 진리</th>
+<tr><th class="voice-header">자신에 대해•<br>진리</th>
 <td>세상에 진리가 없는 것은 없습니다. 어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요</td></tr>
 
-<tr><th class="voice-header">잡담<br>• 신봉</th>
+<tr><th class="voice-header">잡담•<br>신봉</th>
 <td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td></tr>
 
 <tr><th class="voice-header">취미</th>
