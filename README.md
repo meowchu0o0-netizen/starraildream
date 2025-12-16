@@ -424,11 +424,7 @@ main {
     </tr>
     <tbody id="interaction" style="display:none;">
       <tr>
-        <th style="width:30%;
-         scope="row" style="
-        width:30%;
-        background:#e9f8ff;
-          ">첫 만남</th>
+        <th style="width:30%;">첫 만남</th>
         <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td>
         </tr>
         <tr>
