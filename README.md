@@ -1,15 +1,10 @@
-# 파루시아
-1. < style> 태그 건들지 마세요!
-2. [글자] 부분 채워주시면 됩니다.
-3. wiki-blue color, #9eecff(기본적으로 세팅된 색상) 변경 가능합니다.
-4. 오류, 디버그 생겨도 도움 안 드립니다...
-5. 1차 분들 제외 맨 아래 출처 지우지 말아주세요.
+# [캐릭터 이름]
 
 <!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="UTF-8" />
-<title>파루시아</title>
+<title>[캐릭터 이름]</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <style>
@@ -95,7 +90,7 @@ main {
 <div class="wiki-content">
 
 <header class="wiki-header">
-  <h1>파루시아 <span class="en">parousia</span></h1>
+  <h1>[캐릭터 이름] <span class="en">[캐릭터 영문 이름]</span></h1>
   <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
 </header>
 
@@ -106,22 +101,22 @@ main {
   <table class="infobox-table">
     <tr class="infobox-title">
       <th colspan="2">
-        <center>파루시아</center><br>
+        <center>[캐릭터 이름]</center><br>
         <span class="sub"><center>Parousia</center></span>
       </th>
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
-  <img src="이미지주소.jpg" alt="파루시아">
+  <img src="이미지주소.jpg" alt="[캐릭터 이름]">
   </td>
     </tr>
-    <tr><th><center>이름</center></th><td>파루시아</td></tr>
-    <tr><th><center>본명</center></th><td>휘포스타시스 파루시아</td></tr>
-    <tr><th><center>성별</center></th><td>여성</td></tr>
-    <tr><th><center>소속</center></th><td>차원 방랑자</td></tr>
-    <tr><th><center>속성</center></th><td>허수</td></tr>
-    <tr><th><center>운명의 길</center></th><td>지식</td></tr>
-    <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
+    <tr><th><center>이름</center></th><td>[캐릭터 이름]</td></tr>
+    <tr><th><center>본명</center></th><td>[캐릭터 이름]</td></tr>
+    <tr><th><center>성별</center></th><td>[여성/남성]</td></tr>
+    <tr><th><center>소속</center></th><td>[소속]</td></tr>
+    <tr><th><center>속성</center></th><td>[속성]</td></tr>
+    <tr><th><center>운명의 길</center></th><td>[운명의 길]</td></tr>
+    <tr><th><center>언어별 표기</center></th><td>[캐릭터 이름]<br>[캐릭터 영문 이름]<br>[캐릭터 중문 이름]<br>[캐릭터 일문문 이름]</td></tr>
   </table>
 </aside>
 
@@ -134,10 +129,10 @@ main {
     <li class="lv1"><a href="#ingame">3. 인게임 정보</a></li>
     <li class="lv2"><a href="#attribute">3.1. 속성</a></li>
     <li class="lv2"><a href="#attribute2">3.2. 행적</a></li>
-    <li class="lv3"><a href="#attack">3.2.1. 일반공격: 논증 방법</a></li>
-    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬: 진리의 선도자</a></li>
-    <li class="lv3"><a href="#attack3">3.2.3. 필살기: 가장 고결했던 진리의 잔향</a></li>
-    <li class="lv3"><a href="#attack4">3.2.4. 특성: 빛이 영면에 드는 빙법</a></li>
+    <li class="lv3"><a href="#attack">3.2.1. 일반공격: [스킬 이름]</a></li>
+    <li class="lv3"><a href="#attack2">3.2.2. 전투 스킬: [스킬 이름]</a></li>
+    <li class="lv3"><a href="#attack3">3.2.3. 필살기: [스킬 이름]</a></li>
+    <li class="lv3"><a href="#attack4">3.2.4. 특성: [스킬 이름]</a></li>
     <li class="lv1"><a href="#eidolon">3.3. 성혼</a></li>
     <li class="lv1"><a href="#information">3.4. 정보</a></li>
     <li class="lv2"><a href="#voice">3.4.1. 음성</a></li>
