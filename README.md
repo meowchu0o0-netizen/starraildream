@@ -339,35 +339,7 @@ main {
       </div>
 
   <section id="attack4">
-    <h2><span class="wiki-blue">3.2.4.</span> 특성: 빛이 영면에 드는 빙법</h2>
-  <div class="skill highlight">
-      <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
-
-  <blockquote><p>무식은 죄 입니다. / 좀 더 노력해보세요<br>
-  무식은 죄예요 / 좀 더 노력해 봐요.(배속)</p></blockquote>
-      </div>
-    </section>
-
-   
-<section id="eidolon">
-      <h2><span class="wiki-blue">3.3.</span> 성혼</h2>
-      <ol>
-        <table style="width:100%; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td>
-      <img src="이미지1.jpg" style="width:120px;"><br>
-      <b>1</b><br>
-      온전함을<br>추구하리
-    </td>
-    <td>
-      <img src="이미지2.jpg" style="width:120px;"><br>
-      <b>2</b><br>
-      영원불멸한 답은<br>어디에도 없으니
-    </td>
-    <td>
-      <img src="이미지3.jpg" style="width:120px;"><br>
-      <b>3</b><br>
-      불확실성은<br>발전의 가능성
+    <h2><span class="wiki-blue">3조
     </td>
   </tr>
 
@@ -385,10 +357,18 @@ main {
     <td style="padding-top:20px;">
       <img src="이미지6.jpg" style="width:120px;"><br>
       <b>6</b><br>
-      진리는<br>사물에서 찾는 것
+      최초의 「빛」을<br>안는 법
     </td>
   </tr>
 </table>
+ <ol>
+        <li>온전함을 추구하리</li>
+        <li>이데아의 현상계</li>
+        <li>형상의 구조</li>
+        <li>너 자신을 알라</li>
+        <li>암야에서는 빛을 추구하라</li>
+        <li>최초의 「빛」을 안는 법</li>
+      </ol>
 
    <section id="information">
      <h2><span class="wiki-blue">3.4.</span> 정보</h2>
