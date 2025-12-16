@@ -523,8 +523,7 @@ main {
 
   <table class="wiki-table" style="border-collapse:collapse; width:100%;">
     <tr>
-      <th style="width:30%;">구분</th>
-      <th>내용</th>
+      <th style="width:30%;">이야기</th>
     </tr>
 
   <tr>
@@ -538,7 +537,7 @@ main {
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="2">
         <details>
           <summary><b>캐릭터 스토리 · 2</b></summary>
@@ -549,7 +548,7 @@ main {
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="2">
         <details>
           <summary><b>캐릭터 스토리 · 3</b></summary>
@@ -560,7 +559,7 @@ main {
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td colspan="2">
         <details>
           <summary><b>캐릭터 스토리 · 4</b></summary>
