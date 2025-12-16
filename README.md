@@ -407,15 +407,19 @@ main {
 
   <table class="wiki-table" style="width:100%; border-collapse:collapse;">
     <tr>
-      <th colspan="2" style="text-align:center;">
+    <th colspan="2" style="
+    background:#9eecff;
+    color:#ffffff;
+    text-align:center;
+  ">
         음성
       </th>
     </tr>
 
-    <!-- 상호작용 -->
-    <tr onclick="toggleVoice('interaction')" style="cursor:pointer;">
+  <!-- 상호작용 -->
+  <tr onclick="toggleVoice('interaction')" style="cursor:pointer;">
       <th colspan="2" style="background:#f3f4f6;">
-        <span id="icon-interaction">▶</span> 상호작용
+        <span id="icon-interaction">▶</span> [상호작용]
       </th>
     </tr>
     <tbody id="interaction" style="display:none;">
@@ -434,9 +438,9 @@ main {
     </tbody>
 
     <!-- 전투 -->
-    <tr onclick="toggleVoice('battle')" style="cursor:pointer;">
+  <tr onclick="toggleVoice('battle')" style="cursor:pointer;">
       <th colspan="2" style="background:#f3f4f6;">
-        <span id="icon-battle">▶</span> 전투
+        <span id="icon-battle">▶</span> [전투]
       </th>
     </tr>
     <tbody id="battle" style="display:none;">
