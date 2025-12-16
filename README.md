@@ -1,5 +1,6 @@
 # starraildream
 #!!!!!!!!!!! 1. []안 내용은 지우고 쓰세요 2. <style> 태그 건들지 마세요 3. 만져도 되는 것 = color: #~~~~~ // HTML 컬러 코드 사용하세요!!!!!!!!!!!
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -122,7 +123,7 @@ main {
 <body>
   <div class="wiki-content">
   <header class="wiki-header">
-  <h1>파루시아 <span class="en">parousia</span></h1>
+  <h1>[드림주 이름] <span class="en">parousia</span></h1>
   <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
 </header>
   
@@ -138,9 +139,9 @@ main {
     <tr><th>본명</th><td>[드림주 이름]</td></tr>
     <tr><th>성별</th><td>[여성/남성]</td></tr>
     <tr><th>소속</th><td>[소속]</td></tr>
-    <tr><th>속성</th><td>허수</td></tr>
-    <tr><th>운명의 길</th><td>지식</td></tr>
-    <tr><th>출시일</th><td>2025-11-11</td></tr>
+    <tr><th>속성</th><td>[속성]</td></tr>
+    <tr><th>운명의 길</th><td>지식[운명의 길]</td></tr>
+    <tr><th>출시일</th><td>[2025-00-00]</td></tr>
   </table>
 </aside>
 
