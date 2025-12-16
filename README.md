@@ -162,8 +162,8 @@ main {
    
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
-<img src="이미지주소.jpg" alt="파루시아">
-<h3>파루시아</h3>
+<img src="이미지주소.jpg" alt="[캐릭터 이름]">
+<h3>[캐릭터 이름]</h3>
 
 <div style="
   display: inline-block;
@@ -174,7 +174,7 @@ main {
   border-radius: 8px;
   font-weight: 600;
 ">
-  기억
+  [속성]
 </div>
 
 <aside class="infobox">
@@ -193,7 +193,7 @@ main {
         소속
       </th>
       <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
-        차원의 방랑자
+        [소속]
       </td>
     </tr>
     <tr>
@@ -201,7 +201,7 @@ main {
         속성
       </th>
       <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
-        허수
+        [속성]
       </td>
     </tr>
     <tr>
@@ -209,7 +209,7 @@ main {
         운명의 길
       </th>
       <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
-        지식
+        [운명의 길]
       </td>
     </tr>
     <tr>
@@ -217,7 +217,7 @@ main {
         출시 일자
       </th>
       <td style="background:#fff; color:#000; border:none;">
-        2025/11/15
+        2025/00/00
       </td>
     </tr>
   </table>
