@@ -132,9 +132,20 @@ main {
     
 <aside class="infobox">
   <div class="clear"></div>
-  <img src="img/parousia.png" alt="[드림주 이름]">
 
   <table class="infobox-table">
+    
+  <tr class="infobox-title">
+      <th colspan="2">
+        [드림주 이름]<br>
+        <span class="sub">[드림주 영문 이름]</span>
+      </th>
+    </tr>
+    <tr class="infobox-image">
+      <td colspan="2">
+        <img src="이미지주소.jpg" alt="파루시아">
+      </td>
+    </tr>
     <tr><th>이름</th><td>[드림주 이름]</td></tr>
     <tr><th>본명</th><td>[드림주 이름]</td></tr>
     <tr><th>성별</th><td>[여성/남성]</td></tr>
@@ -142,7 +153,6 @@ main {
     <tr><th>속성</th><td>[속성]</td></tr>
     <tr><th>운명의 길</th><td>[운명의 길]</td></tr>
     <tr><th>출시일</th><td>[2025-00-00]</td></tr>
-  </table>
 </aside>
 
 <nav class="toc">
