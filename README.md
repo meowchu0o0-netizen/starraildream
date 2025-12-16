@@ -115,13 +115,13 @@ main {
   <img src="이미지주소.jpg" alt="파루시아">
   </td>
     </tr>
-    <tr><th>이름</th><td>파루시아</td></tr>
-    <tr><th>본명</th><td>휘포스타시스 파루시아</td></tr>
-    <tr><th>성별</th><td>여성</td></tr>
-    <tr><th>소속</th><td>차원 방랑자</td></tr>
-    <tr><th>속성</th><td>허수</td></tr>
-    <tr><th>운명의 길</th><td>지식</td></tr>
-    <tr><th>언어별 표기</th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
+    <tr><th><center>이름</center></th><td>파루시아</td></tr>
+    <tr><th><center>본명</center></th><td>휘포스타시스 파루시아</td></tr>
+    <tr><th><center>성별</center></th><td>여성</td></tr>
+    <tr><th><center>소속</center></th><td>차원 방랑자</td></tr>
+    <tr><th><center>속성</center></th><td>허수</td></tr>
+    <tr><th><center>운명의 길</center></th><td>지식</td></tr>
+    <tr><th><center>언어별 표기</center></th><td>파루시아<br>Parousia<br>法鲁西亚<br>パルシア</td></tr>
   </table>
 </aside>
 
