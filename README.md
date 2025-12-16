@@ -184,54 +184,47 @@ main {
 </div>
 
 <aside class="infobox">
+  <img src="이미지주소.jpg" alt="파루시아">
 
-  <table class="infobox-table" style="border-collapse: collapse;">
+  <table class="infobox-table" style="border-collapse: collapse; border: none;">
     <tr>
-      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         등급
       </th>
-      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         ★★★★★
       </td>
     </tr>
     <tr>
-      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         소속
       </th>
-      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         앰프리어스
       </td>
     </tr>
     <tr>
-      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         속성
       </th>
-      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         양자
       </td>
     </tr>
     <tr>
-      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <th style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         운명의 길
       </th>
-      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
         기억
       </td>
     </tr>
     <tr>
-      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <th style="background:#fff; color:#000; border:none;">
         출시 일자
       </th>
-      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+      <td style="background:#fff; color:#000; border:none;">
         2025/04/09
-      </td>
-    </tr>
-    <tr>
-      <th style="background:#fff; color:#000; border:1px solid #e0e0e0;">
-        획득 경로
-      </th>
-      <td style="background:#fff; color:#000; border:1px solid #e0e0e0;">
-        한정 워프
       </td>
     </tr>
   </table>
