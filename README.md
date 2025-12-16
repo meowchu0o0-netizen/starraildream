@@ -1,7 +1,7 @@
 # parousia
 1. < style> 태그 건들지 마세요!
 2. [글자] 부분 채워주시면 됩니다.
-3. wiki-blue color, infobox table th color 변경 가능합니다.
+3. wiki-blue color, #9eecff(기본적으로 세팅된 색상) 변경 가능합니다.
 4. 오류, 디버그 생겨도 도움 안 드립니다...
 5. 1차 분들 제외 맨 아래 출처 지우지 말아주세요.
 
@@ -20,7 +20,6 @@
 main {
   max-width: 100%;
 }
-
 .infobox {
   width: 320px;
   margin: 0 0 20px 0;
