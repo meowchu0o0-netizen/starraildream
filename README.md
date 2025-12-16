@@ -357,17 +357,17 @@ main {
     <td>
       <img src="이미지1.jpg" style="width:120px;"><br>
       <b>1</b><br>
-      기억을 대가로<br>날관하는 설원의 성녀
+      온전함을<br>추구하리
     </td>
     <td>
       <img src="이미지2.jpg" style="width:120px;"><br>
       <b>2</b><br>
-      날갯짓하는 꽃으로<br>왕관을 씌우리
+      영원불멸한 답은<br>어디에도 없으니
     </td>
     <td>
       <img src="이미지3.jpg" style="width:120px;"><br>
       <b>3</b><br>
-      사경에서 춤추는<br>경건한 나그네
+      불확실성은<br>발전의 가능성
     </td>
   </tr>
 
@@ -375,29 +375,20 @@ main {
     <td style="padding-top:20px;">
       <img src="이미지4.jpg" style="width:120px;"><br>
       <b>4</b><br>
-      슬픔을 안고<br>애가 속에 잠드니
+      너 자신을<br>알라
     </td>
     <td style="padding-top:20px;">
       <img src="이미지5.jpg" style="width:120px;"><br>
       <b>5</b><br>
-      예언으로 장식한<br>순백의 새로운 장
+      암야에서는<br>빛을 추구하라
     </td>
     <td style="padding-top:20px;">
       <img src="이미지6.jpg" style="width:120px;"><br>
       <b>6</b><br>
-      세월이 고치를 깨길<br>기다리네
+      진리는<br>사물에서 찾는 것
     </td>
   </tr>
 </table>
-
-        <li>영원한 진리</li>
-        <li>이데아의 현상계</li>
-        <li>형상의 구조</li>
-        <li>부정과 진리</li>
-        <li>성령의 열매</li>
-        <li>최초의 「빛」을 안는 법</li>
-      </ol>
-    </section>
 
    <section id="information">
      <h2><span class="wiki-blue">3.4.</span> 정보</h2>
