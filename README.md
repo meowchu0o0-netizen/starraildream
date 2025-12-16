@@ -128,23 +128,34 @@ main {
 </header>
   
 <main>
-  <aside class="infobox">
-    
 <aside class="infobox">
+
+<style>
+      .infobox-title th {
+        position: relative;
+        padding-bottom: 18px;
+      }
+
+      .infobox-title th::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        bottom: 6px;
+        transform: translateX(-50%);
+        width: 70%;
+        height: 2px;
+        background-color: # cfd3ff;
+      }
+    </style>
+  
   <div class="clear"></div>
 
   <table class="infobox-table">
-    
   <tr class="infobox-title">
   <th colspan="2">
         <center>[드림주 이름]</center><br>
         <span class="sub"><center>[드림주 영문 이름]</center></span>
-  
-.infobox-title th {
-  border-bottom: 3px solid #cfd3ff; /* 원하는 색 */
-  padding-bottom: 8px;
-}
-      </th>
+  </th>
     </tr>
     <tr class="infobox-image">
       <td colspan="2">
