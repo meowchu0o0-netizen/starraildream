@@ -168,6 +168,20 @@ main {
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
 
+<h3>파루시아</h3>
+
+<div style="
+  display: inline-block;
+  margin: 6px 0 16px 0;
+  padding: 6px 14px;
+  background-color: #7b82c6;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+">
+  기억
+</div>
+
 <aside class="infobox">
     <table class="infobox-table">
       <tr><th>등급</th><td>★★★★★</td></tr>
