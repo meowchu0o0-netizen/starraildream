@@ -129,24 +129,6 @@ main {
   
 <main>
 <aside class="infobox">
-
-<style>
-      .infobox-title th {
-        position: relative;
-        padding-bottom: 18px;
-      }
-
-      .infobox-title th::after {
-        content: "";
-        position: absolute;
-        left: 50%;
-        bottom: 6px;
-        transform: translateX(-50%);
-        width: 70%;
-        height: 2px;
-        background-color: # cfd3ff;
-      }
-    </style>
   
   <div class="clear"></div>
 
