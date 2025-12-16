@@ -496,7 +496,6 @@ main {
           <summary><b>[전투]</b></summary>
           <p style="margin:0; padding:12px;">
             <details>
-    <summary><b>[전투]</b></summary>
     <table>
       <tbody>
         <tr><th>전투 시작•<br>
