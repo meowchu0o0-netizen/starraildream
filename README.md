@@ -429,7 +429,7 @@ main {
         <tr><th>캐릭터 최고 레벨</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
         <tr><th>행적 활성화</th><td>저는 그대의 가능성을 믿어요</td></tr>
         <tr><th>파티 편성•<br>
-          뫄뫄</th><td></td></tr>
+          아젠티</th><td>방해나 안 되면 다행일텐데요</td></tr>
       </tbody>
     </table>
   </details>
@@ -441,39 +441,39 @@ main {
         <tr><th>전투 시작•<br>
           약점 격파</th><td>이제 편히 잠드시길</td></tr>
         <tr><th>전투 시작<br>
-          위험 경보</th><td></td></tr>
-        <tr><th>턴 시작 1</th><td>ㅇㅇㅇ</td></tr>
-        <tr><th>턴 시작 2</th><td></td></tr>
-        <tr><th>턴 대기</th><td></td></tr>
+          위험 경보</th><td>가르침이 필요한가요?</td></tr>
+        <tr><th>턴 시작 1</th><td>제가 나서겠습니다</td></tr>
+        <tr><th>턴 시작 2</th><td>그대에게 기대하고 있어요</td></tr>
+        <tr><th>턴 대기</th><td>지켜볼게요</td></tr>
         <tr><th>전투 스킬•<br>
-          1</th><td></td></tr>
+          1</th><td> 제가 시도해 볼게요</td></tr>
         <tr><th>전투 스킬•<br>
-          2</th><td></td></tr>
-        <tr><th>약공격 피격</th><td></td></tr>
-        <tr><th>강공격 피격</th><td></td></tr>
+          2</th><td>그건 허무한 자기기만입니다</td></tr>
+        <tr><th>약공격 피격</th><td>어이가 없군요</td></tr>
+        <tr><th>강공격 피격</th><td>그대는 품격이 없습니까?</td></tr>
         <tr><th>필살기•<br>
-          활성화</th><td></td></tr>
+          활성화</th><td>겁이 없네요</td></tr>
         <tr><th>필살기•<br>
-          발동</th><td></td></tr>
-        <tr><th>전투 불능</th><td></td></tr>
-        <tr><th>전투 복귀</th><td></td></tr>
-        <tr><th>HP 회복</th><td></td></tr>
-        <tr><th>비술</th><td></td></tr>
-        <tr><th>전투 승리</th><td></td></tr>
+          발동</th><td>당신은 고집을 버리는 편이 좋겠습니다</td></tr>
+        <tr><th>전투 불능</th><td>아직... 실현이...</td></tr>
+        <tr><th>전투 복귀</th><td>제가 보고 싶었나요?</td></tr>
+        <tr><th>HP 회복</th><td>고마워요</td></tr>
+        <tr><th>비술</th><td>조용</td></tr>
+        <tr><th>전투 승리</th><td>증명해 냈나요?</td></tr>
         <tr><th>전리품 오픈•<br>
-          1</th><td></td></tr>
+          1</th><td>나쁘지 않네요</td></tr>
         <tr><th>전리품 오픈•<br>
-          2</th><td></td></tr>
+          2</th><td>이런 것도 있군요</td></tr>
         <tr><th>진귀한<br>
-          전리품 오픈</th><td></td></tr>
+          전리품 오픈</th><td>증명을 마치면 보상이 뒤따라오는 법이죠</td></tr>
         <tr><th>수수께끼<br>
           풀이 성공•<br>
-          1</th><td></td></tr>
+          1</th><td>재밌네요</td></tr>
         <tr><th>수수께끼<br>
           풀이 성공•<br>
-          2</th><td></td></tr>
-        <tr><th>적 발견</th><td></td></tr>
-        <tr><th>도시로 복귀</th><td></td></tr>
+          2</th><td>다른 놀이는 없나요?</td></tr>
+        <tr><th>적 발견</th><td>조심 하세요</td></tr>
+        <tr><th>도시로 복귀</th><td>떠들썩함이라... 그리운 향기네요</td></tr>
       </tbody>
     </table>
   </details>
