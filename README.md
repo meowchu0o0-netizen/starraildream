@@ -39,7 +39,7 @@ main {
 
 .infobox-table th {
   background-color: #2b2f3a;
-  color: #cfd3ff;
+  color: #9eecff;
   text-align: left;
   padding: 8px;
   width: 35%;
@@ -237,7 +237,7 @@ main {
   <button
     onclick="location.href='#attribute'"
     style="
-      background-color:#4f5bd5;
+      background-color:#9eecff;
       color:#ffffff;
       border:none;
       padding:6px 14px;
@@ -250,7 +250,7 @@ main {
   <button
     onclick="location.href='#voice'"
     style="
-      background-color:#4f5bd5;
+      background-color:#9eecff;
       color:#ffffff;
       border:none;
       padding:6px 14px;
@@ -263,7 +263,7 @@ main {
   <button
     onclick="location.href='#story'"
     style="
-      background-color:#4f5bd5;
+      background-color:#9eecff;
       color:#ffffff;
       border:none;
       padding:6px 14px;
@@ -276,7 +276,7 @@ main {
   <button
     onclick="location.href='#attack'"
     style="
-      background-color:#4f5bd5;
+      background-color:#9eecff;
       color:#ffffff;
       border:none;
       padding:6px 14px;
@@ -289,7 +289,7 @@ main {
   <button
     onclick="location.href='#eidolon'"
     style="
-      background-color:#4f5bd5;
+      background-color:#9eecff;
       color:#ffffff;
       border:none;
       padding:6px 14px;
