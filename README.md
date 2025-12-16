@@ -197,7 +197,7 @@ main {
         소속
       </th>
       <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
-        앰프리어스
+        차원의 방랑자
       </td>
     </tr>
     <tr>
@@ -205,7 +205,7 @@ main {
         속성
       </th>
       <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
-        양자
+        허수
       </td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@ main {
         운명의 길
       </th>
       <td style="background:#fff; color:#000; border:none; border-bottom:1px dashed #d6d6d6;">
-        기억
+        지식
       </td>
     </tr>
     <tr>
@@ -221,7 +221,7 @@ main {
         출시 일자
       </th>
       <td style="background:#fff; color:#000; border:none;">
-        2025/04/09
+        2025/11/11
       </td>
     </tr>
   </table>
