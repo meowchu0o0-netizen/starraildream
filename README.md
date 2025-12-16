@@ -437,31 +437,42 @@ main {
         <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td>
         </tr>
         <tr>
-          <th>인사</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  인사
+</th>
           <td>오늘 그대가 새로 얻은 깨달음이 있나요?</td>
         </tr>
         <tr>
-          <th>작별</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  작별
+</th>
           <td>머지 않은 미래에 다시 만나요</td>
         </tr>
         <tr>
-          <th>자신에 대해•<br>
-            진리</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  자신에 대해•진리
+</th>
           <td>
             세상에 진리가 없는 것은 없습니다.
             어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요
           </td>
         </tr>
         <tr>
-          <th>잡담•신봉</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  잡담•신봉
+</th>
           <td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td>
         </tr>
         <tr>
-          <th>취미</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  취미
+</th>
           <td>요즘들어 리라의 선율이 참 듣기 좋더군요.</td>
         </tr>
         <tr>
-          <th>고민</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  고민
+</th>
           <td>
             ——다들 간단한 이치를 알지 못하는 것 같아 안타깝습니다.
             ...이데아가 사라져도 그 빈자리는 남아있습니다.
@@ -470,27 +481,41 @@ main {
           </td>
         </tr>
         <tr>
-          <th>공유</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  공유
+</th>
           <td>
             알레데이아의 진리의 전당에서는 고대의 초월적 의미가 담긴 경전이 가득 있었습니다.
             뭐, 말이 초월적이지 대부분 종교의 교리를 따르자는 내용이었지만요
           </td>
         </tr>
         <tr>
-          <th>견문</th>
+          <th style="background:#9eecff; color:#ffffff;">
+  견문
+</th>
           <td>
             전 은하에서 사람을 설득시키려면, 논리적 논증도 필요하지만
             때로는 신화적 언어나 감성적 언어를 더많이 선택해야할 때도 있더군요.
           </td>
         </tr>
-        <tr><th>아젠티에<br>
-          대해</th><td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요</td></tr>
-        <tr><th>성흔 활성화</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
-        <tr><th>캐릭터 승급</th><td>깨달음에는 한계가 없습니다</td></tr>
-        <tr><th>캐릭터 최고 레벨</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
-        <tr><th>행적 활성화</th><td>저는 그대의 가능성을 믿어요</td></tr>
-        <tr><th>파티 편성•<br>
-          아젠티</th><td>방해나 안 되면 다행일텐데요</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  아젠티에<br>대해
+</th><td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  성흔 활성화
+</th><td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  캐릭터 승급
+</th><td>깨달음에는 한계가 없습니다</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  캐릭터 최고 레벨
+</th><td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  행적 활성화
+</th><td>저는 그대의 가능성을 믿어요</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  파티 편성<br>•아젠티
+</th><td>방해나 안 되면 다행일텐데요</td></tr>
       </tbody>
 
     <!-- 전투 -->
