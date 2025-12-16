@@ -647,6 +647,7 @@ main {
   </main>
 
   <section id="relation">
+  <h2><span class="wiki-blue">4.</span> 인간관계</h2>
 
 
   <footer class="wiki-footer">
