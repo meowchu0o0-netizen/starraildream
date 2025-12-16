@@ -406,7 +406,8 @@ main {
   <h2><span class="wiki-blue">3.4.1.</span> 음성</h2>
 
   <table class="wiki-table" style="border-collapse:collapse; width:100%;">
-    <tr>
+   
+  <tr>
       <th colspan="2" style="
         background:#9eecff;
         color:#ffffff;
@@ -420,7 +421,7 @@ main {
       <td colspan="2">
         <details>
           <summary><b>[상호작용]</b></summary>
-          <p style="margin:0; padding:12px;">
+          <div style="padding:12px;">
             <table>
       <tbody>
         <tr>
@@ -485,7 +486,7 @@ main {
       </tbody>
     </table>
   </details>
-          </p>
+          </div>
         </details>
       </td>
     </tr>
@@ -494,8 +495,9 @@ main {
       <td colspan="2">
         <details>
           <summary><b>[전투]</b></summary>
-          <p style="margin:0; padding:12px;">
+          <div style="padding:12px;">
             <details>
+    <summary><b>[전투]</b></summary>
     <table>
       <tbody>
         <tr><th>전투 시작•<br>
@@ -537,13 +539,12 @@ main {
       </tbody>
     </table>
   </details>
-          </p>
+          </div>
         </details>
       </td>
     </tr>
   </table>
 </section>
-
      
   <section id="story">
   <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
