@@ -168,7 +168,7 @@ main {
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
 
-  <aside class="infobox">
+<aside class="infobox">
     <table class="infobox-table">
       <tr><th>등급</th><td>★★★★★</td></tr>
       <tr><th>소속</th><td>앰프리어스</td></tr>
@@ -179,17 +179,19 @@ main {
     </table>
   </aside>
 
-  <!-- 인포박스 정리 -->
+  <!-- 인포박스 영향 제거 -->
   <div style="clear: both;"></div>
 
-  <!-- 버튼 -->
-  <div align="center" style="margin: 20px 0;">
+  <!-- 버튼 (왼쪽 정렬) -->
+  <div style="margin: 20px 0;">
     <button onclick="location.href='#attribute'">속성</button>
     <button onclick="location.href='#voice'">음성</button>
     <button onclick="location.href='#story'">이야기</button>
     <button onclick="location.href='#attack'">행적</button>
     <button onclick="location.href='#eidolon'">성혼</button>
   </div>
+
+</section>
 
   <img src="이미지주소.jpg" alt="파루시아">
       <blockquote><p>「신의 숨결이 끊기자 신정제 기반의 행성은 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하면서 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
