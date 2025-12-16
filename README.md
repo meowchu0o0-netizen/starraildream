@@ -526,10 +526,21 @@ main {
       <th style="width:30%;">이야기</th>
     </tr>
 
+<tr>
+      <td colspan="2">
+        <details>
+          <summary><b>[캐릭터 상세]</b></summary>
+          <p>
+            여기에 캐릭터 스토리 1 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
+    
   <tr>
       <td colspan="2">
         <details>
-          <summary><b>캐릭터 스토리 · 1</b></summary>
+          <summary><b>[캐릭터 스토리 · 1]</b></summary>
           <p>
             여기에 캐릭터 스토리 1 내용 작성
           </p>
@@ -540,7 +551,7 @@ main {
   <tr>
       <td colspan="2">
         <details>
-          <summary><b>캐릭터 스토리 · 2</b></summary>
+          <summary><b>[캐릭터 스토리 · 2]</b></summary>
           <p>
             여기에 캐릭터 스토리 2 내용 작성
           </p>
@@ -551,7 +562,7 @@ main {
   <tr>
       <td colspan="2">
         <details>
-          <summary><b>캐릭터 스토리 · 3</b></summary>
+          <summary><b>[캐릭터 스토리 · 3]</b></summary>
           <p>
             여기에 캐릭터 스토리 3 내용 작성
           </p>
@@ -562,7 +573,7 @@ main {
   <tr>
       <td colspan="2">
         <details>
-          <summary><b>캐릭터 스토리 · 4</b></summary>
+          <summary><b>[캐릭터 스토리 · 4]</b></summary>
           <p>
             여기에 캐릭터 스토리 4 내용 작성
           </p>
