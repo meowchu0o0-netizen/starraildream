@@ -140,7 +140,7 @@ main {
     <tr><th>성별</th><td>[여성/남성]</td></tr>
     <tr><th>소속</th><td>[소속]</td></tr>
     <tr><th>속성</th><td>[속성]</td></tr>
-    <tr><th>운명의 길</th><td>지식[운명의 길]</td></tr>
+    <tr><th>운명의 길</th><td>[운명의 길]</td></tr>
     <tr><th>출시일</th><td>[2025-00-00]</td></tr>
   </table>
 </aside>
