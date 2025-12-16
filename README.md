@@ -342,10 +342,6 @@ main {
     <h2><span class="wiki-blue">3.2.4.</span> 특성: 빛이 영면에 드는 빙법</h2>
   <div class="skill">
       <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
-    
-  <blockquote><p>인생은 지혜와 지식을 찾아가는 여정입니다(발동)<br>
-지혜와 지식을 위한 여정(배속)</p></blockquote>
-      </div>
 
   <blockquote><p>무식은 죄 입니다. / 좀 더 노력해보세요<br>
   무식은 죄예요 / 좀 더 노력해 봐요.(배속)</p></blockquote>
