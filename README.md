@@ -405,9 +405,23 @@ main {
 <section id="voice">
   <h2><span class="wiki-blue">3.4.1.</span> 음성</h2>
 
-  <details>
-    <summary><b>[상호작용]</b></summary>
-    <table>
+  <table class="wiki-table" style="border-collapse:collapse; width:100%;">
+    <tr>
+      <th colspan="2" style="
+        background:#9eecff;
+        color:#ffffff;
+        text-align:center;
+      ">
+        음성
+      </th>
+    </tr>
+
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b>[상호작용]</b></summary>
+          <p style="margin:0; padding:12px;">
+            <table>
       <tbody>
         <tr>
           <th>첫 만남</th>
@@ -471,8 +485,17 @@ main {
       </tbody>
     </table>
   </details>
+          </p>
+        </details>
+      </td>
+    </tr>
 
-  <details>
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b>[전투]</b></summary>
+          <p style="margin:0; padding:12px;">
+            <details>
     <summary><b>[전투]</b></summary>
     <table>
       <tbody>
@@ -515,6 +538,11 @@ main {
       </tbody>
     </table>
   </details>
+          </p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </section>
 
      
