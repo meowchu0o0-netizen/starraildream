@@ -348,6 +348,9 @@ main {
       </div>
     </section>
 
+<section id="eidolon">
+      <h2><span class="wiki-blue">3.3.</span> 성혼</h2>
+  
   <table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
     <td>
