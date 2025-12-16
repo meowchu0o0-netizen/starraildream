@@ -168,7 +168,7 @@ main {
    
   <section id="ingame">
       <h2><span class="wiki-blue">3.</span> 인게임 정보</h2>
-
+<img src="이미지주소.jpg" alt="파루시아">
 <h3>파루시아</h3>
 
 <div style="
@@ -184,16 +184,59 @@ main {
 </div>
 
 <aside class="infobox">
-   <img src="이미지주소.jpg" alt="파루시아">
-    <table class="infobox-table">
-      <tr><th>등급</th><td>★★★★★</td></tr>
-      <tr><th>소속</th><td>앰프리어스</td></tr>
-      <tr><th>속성</th><td>양자</td></tr>
-      <tr><th>운명의 길</th><td>기억</td></tr>
-      <tr><th>출시 일자</th><td>2025/04/09</td></tr>
-      <tr><th>획득 경로</th><td>한정 워프</td></tr>
-    </table>
-  </aside>
+
+  <table class="infobox-table" style="border-collapse: collapse;">
+    <tr>
+      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        등급
+      </th>
+      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        ★★★★★
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        소속
+      </th>
+      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        앰프리어스
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        속성
+      </th>
+      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        양자
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        운명의 길
+      </th>
+      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        기억
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        출시 일자
+      </th>
+      <td style="background:#fff; color:#000; border:1px solid #e0e0e0; border-bottom:1px dashed #cfcfcf;">
+        2025/04/09
+      </td>
+    </tr>
+    <tr>
+      <th style="background:#fff; color:#000; border:1px solid #e0e0e0;">
+        획득 경로
+      </th>
+      <td style="background:#fff; color:#000; border:1px solid #e0e0e0;">
+        한정 워프
+      </td>
+    </tr>
+  </table>
+</aside>
+
 
   <!-- 인포박스 영향 제거 -->
   <div style="clear: both;"></div>
