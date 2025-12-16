@@ -491,10 +491,10 @@ main {
     </tr>
     <tbody id="battle" style="display:none;">
       <tr>
-  <th class="voice-header">전투 시작<br>• 약점 격파</th>
+  <th class="voice-header">전투 시작•<br>약점 격파</th>
   <td>이제 편히 잠드시길</td></tr>
 
-<tr><th class="voice-header">전투 시작<br>• 위험 경보</th>
+<tr><th class="voice-header">전투 시작•<br>위험 경보</th>
   <td>가르침이 필요한가요?</td></tr>
 
 <tr><th class="voice-header">턴 시작 1</th>
@@ -506,10 +506,10 @@ main {
 <tr><th class="voice-header">턴 대기</th>
 <td>지켜볼게요</td></tr>
 
-<tr><th class="voice-header">전투 스킬<br>• 1</th>
+<tr><th class="voice-header">전투 스킬•<br>1</th>
 <td>제가 시도해 볼게요</td></tr>
 
-<tr><th class="voice-header">전투 스킬<br>• 2</th>
+<tr><th class="voice-header">전투 스킬•<br>2</th>
 <td>그건 허무한 자기기만입니다</td></tr>
 
 <tr><th class="voice-header">약공격 피격</th>
@@ -518,10 +518,10 @@ main {
 <tr><th class="voice-header">강공격 피격</th>
 <td>그대는 품격이 없습니까?</td></tr>
 
-<tr><th class="voice-header">필살기<br>• 활성화</th>
+<tr><th class="voice-header">필살기•<br>활성화</th>
 <td>겁이 없네요</td></tr>
 
-<tr><th class="voice-header">필살기<br>• 발동</th>
+<tr><th class="voice-header">필살기•<br>발동</th>
 <td>당신은 고집을 버리는 편이 좋겠습니다</td></tr>
 
 <tr><th class="voice-header">전투 불능</th>
@@ -539,19 +539,19 @@ main {
 <tr><th class="voice-header">전투 승리</th>
 <td>증명해 냈나요?</td></tr>
 
-<tr><th class="voice-header">전리품 오픈<br>• 1</th>
+<tr><th class="voice-header">전리품 오픈•<br>1</th>
 <td>나쁘지 않네요</td></tr>
 
-<tr><th class="voice-header">전리품 오픈<br>• 2</th>
+<tr><th class="voice-header">전리품 오픈•<br>2</th>
 <td>이런 것도 있군요</td></tr>
 
 <tr><th class="voice-header">진귀한 전리품<br>오픈</th>
 <td>증명을 마치면 보상이 뒤따라오는 법이죠</td></tr>
 
-<tr><th class="voice-header">수수께끼 풀이 성공<br>• 1</th>
+<tr><th class="voice-header">수수께끼 풀이 성공•<br>1</th>
 <td>재밌네요</td></tr>
 
-<tr><th class="voice-header">수수께끼 풀이 성공<br>• 2</th>
+<tr><th class="voice-header">수수께끼 풀이 성공•<br>2</th>
 <td>다른 놀이는 없나요?</td></tr>
 
 <tr><th class="voice-header">적 발견</th>
