@@ -643,6 +643,8 @@ main {
 </section>
   </main>
 
+  <section id="relation">
+
 
   <footer class="wiki-footer">
     <p>parousia · Honkai: Star Rail</p>
