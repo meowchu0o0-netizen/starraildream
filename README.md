@@ -102,7 +102,7 @@ main {
     <tr class="infobox-title">
       <th colspan="2">
         <center>[캐릭터 이름]</center><br>
-        <span class="sub"><center>Parousia</center></span>
+        <span class="sub"><center>[캐릭터 영문 이름]</center></span>
       </th>
     </tr>
     <tr class="infobox-image">
@@ -143,8 +143,8 @@ main {
 
 <section id="overview">
   <h2><span class="wiki-blue">1.</span> 개요</h2>
-  <img src="이미지주소.jpg" alt="파루시아">
-  <blockquote><p>「그대의 최초의 교파는 멸망했다」</p></blockquote>
+  <img src="이미지주소.jpg" alt="[캐릭터 이름]">
+  <blockquote><p>「[대사]」</p></blockquote>
   <p>《붕괴: 스타레일》의 플레이어블 캐릭터.
 </p>
 </section>
@@ -296,7 +296,7 @@ main {
 </div>
 
 
-  <blockquote><p>「신의 숨결이 끊기자 신정제 기반의 행성은 큰 혼돈을 겪었다. 많은 이들의 증명이 서로 엇갈리기 시작하면서 주축으로 집결한 극단적 불신론자들은 내전을 일으켰고, 진리를 관망하던 행성은 곧 멸망했다. 다만 걱정할 것 없다. 진리는 아무리 큰 혼돈 속에서도 여전히 잔존하나니」</p></blockquote>
+  <blockquote><p>「[대사]」</p></blockquote>
       
 
   <section id="attribute">
@@ -311,39 +311,38 @@ main {
   <h2><span class="wiki-blue">3.2.</span> 행적</h2>
 
   <section id="attack">
-  <h2><span class="wiki-blue">3.2.1.</span> 일반공격: 논증 방법</h2>
+  <h2><span class="wiki-blue">3.2.1.</span> 일반공격: [스킬 이름]</h2>
 <div class="skill">
-      <p>지정된 단일 적에게 파루시아 hp의 n%만큼 허수 속성 피해를 가한다</p>
+      <p>[스킬 설명]</p>
   
-   <blockquote><p>선의 이데를 실현해보죠</p></blockquote>
+   <blockquote><p>[대사]</p></blockquote>
       </div>
 
 <section id="attack2">
-  <h2><span class="wiki-blue">3.2.2.</span> 전투 스킬: 진리의 선도자</h2>
+  <h2><span class="wiki-blue">3.2.2.</span> 전투 스킬: [스킬 이름]</h2>
   <div class="skill">
-    <p>모든 적에게 허수 속성 피해</p>
+    <p>[스킬 설명]</p>
 
-  <blockquote><p>최초의 원형을 알아볼까요 / 진리의 실현을 위해!</p></blockquote>
-  <blockquote><p>최초의 이상향을(배속) / 진리를 위해!(배속)</p></blockquote>
+  <blockquote><p>[대사]</p></blockquote>
+  <blockquote><p>[대사]</p></blockquote>
       </div>
 
   <section id="attack3">
-    <h2><span class="wiki-blue">3.2.3.</span> 필살기: 가장 고결했던 진리의 잔향</h2>
+    <h2><span class="wiki-blue">3.2.3.</span> 필살기: [스킬 이름]</h2>
   <div class="skill">
-      <p>에너지 90 소모, 전체 공격</p>
+      <p>[스킬 설명]</p>
 
-  <blockquote><p>알아냈어요ㅡㅡ(활성화)</p></blockquote>
-  <blockquote><p>인생은 지혜와 지식을 찾아가는 여정입니다(발동)<br>
-지혜와 지식을 위한 여정(배속)</p></blockquote>
+  <blockquote><p>[대사]</p></blockquote>
+  <blockquote><p>[대사]</p></blockquote>
       </div>
 
   <section id="attack4">
-    <h2><span class="wiki-blue">3.2.4.</span> 특성: 빛이 영면에 드는 빙법</h2>
+    <h2><span class="wiki-blue">3.2.4.</span> 특성: [스킬 이름]</h2>
   <div class="skill">
-      <p>에너지 180 소모, 바운스 추가 피해, 속도가 10% 감소</p>
+      <p>[스킬 설명]</p>
 
-  <blockquote><p>무식은 죄 입니다. / 좀 더 노력해보세요<br>
-  무식은 죄예요 / 좀 더 노력해 봐요.(배속)</p></blockquote>
+  <blockquote><p>[대사]<br>
+  [대사]</p></blockquote>
       </div>
     </section>
 
@@ -355,17 +354,17 @@ main {
     <td>
       <img src="이미지1.jpg" style="width:120px;"><br>
       <b>1</b><br>
-      온전함을<br>추구하리
+      [성혼명]<br>[성혼명]
     </td>
     <td>
       <img src="이미지2.jpg" style="width:120px;"><br>
       <b>2</b><br>
-      이데아의<br>현상계
+      [성혼명]<br>[성혼명]
     </td>
     <td>
       <img src="이미지3.jpg" style="width:120px;"><br>
       <b>3</b><br>
-      형상의<br>구조
+      [성혼명]<br>[성혼명]
     </td>
   </tr>
 
@@ -373,32 +372,32 @@ main {
     <td style="padding-top:20px;">
       <img src="이미지4.jpg" style="width:120px;"><br>
       <b>4</b><br>
-      너 자신을<br>알라
+      [성혼명]<br>[성혼명]
     </td>
     <td style="padding-top:20px;">
       <img src="이미지5.jpg" style="width:120px;"><br>
       <b>5</b><br>
-      암야에서는<br>빛을 추구하라
+      [성혼명]<br>[성혼명]
     </td>
     <td style="padding-top:20px;">
       <img src="이미지6.jpg" style="width:120px;"><br>
       <b>6</b><br>
-      최초의 「빛」을<br>안는 법
+      [성혼명]<br>[성혼명]
     </td>
   </tr>
 </table>
 
-<p>• 성혼 1 - <b>온전함을 추구하리</b></p>
+<p>• 성혼 1 - <b>[성혼명]</b></p>
 <p></p>
-<p>• 성혼 2 - <b>이데아의 현상</b></p>
+<p>• 성혼 2 - <b>[성혼명]</b></p>
 <p></p>
-<p>• 성혼 3 - <b>형상의 구조</b></p>
+<p>• 성혼 3 - <b>[성혼명]</b></p>
 <p></p>
-<p>• 성혼 4 - <b>너 자신을 알라</b></p>
+<p>• 성혼 4 - <b>[성혼명]</b></p>
 <p></p>
-<p>• 성혼 5 - <b>암야에서는 빛을 추구하라</b></p>
+<p>• 성혼 5 - <b>[성혼명]</b></p>
 <p></p>
-<p>• 성혼 6 - <b>최초의 「빛」을 안는 법</b></p>
+<p>• 성혼 6 - <b>[성혼명]</b></p>
 <p></p>
 
 
@@ -442,49 +441,49 @@ main {
     <tbody id="interaction" style="display:none;">
      <tr>
   <th class="voice-header">첫 만남</th>
-  <td>저는 진리의 선구자가 아닌 최초의 것을 신봉하는 진리의 선도자입니다. 잊지 말아주세요</td></tr>
+  <td>[대사]</td></tr>
 
 <tr><th class="voice-header">인사</th>
-<td>오늘 그대가 새로 얻은 깨달음이 있나요?</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">작별</th>
-<td>머지 않은 미래에 다시 만나요</td></tr>
+<td>[대사]</td></tr>
 
-<tr><th class="voice-header">자신에 대해•<br>진리</th>
-<td>세상에 진리가 없는 것은 없습니다. 어떠한 「논제의 답이 0」이라는 것도 하나의 진리니까요</td></tr>
+<tr><th class="voice-header">자신에 대해•<br>[기입]</th>
+<td>[대사]</td></tr>
 
-<tr><th class="voice-header">잡담•<br>신봉</th>
-<td>존재하지 않는 것에 대한 신봉은 자신을 해하는 지름길 입니다. 그 끝엔 반드시 파멸이 있을 거에요</td></tr>
+<tr><th class="voice-header">잡담•<br>[기입]</th>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">취미</th>
-<td>요즘들어 리라의 선율이 참 듣기 좋더군요.</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">고민</th>
-<td>——다들 간단한 이치를 알지 못하는 것 같아 안타깝습니다. ...이데아가 사라져도 그 빈자리는 남아있습니다. 그 빈자들이야 말로 형상들의 구조이자, 세계의 질서이며 의미의 섬광같은 것이죠.</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">공유</th>
-<td>알레데이아의 진리의 전당에서는 고대의 초월적 의미가 담긴 경전이 가득 있었습니다. 뭐, 말이 초월적이지 대부분 종교의 교리를 따르자는 내용이었지만요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">견문</th>
-<td>전 은하에서 사람을 설득시키려면, 논리적 논증도 필요하지만 때로는 신화적 언어나 감성적 언어를 더 많이 선택해야할 때도 있더군요.</td></tr>
+<td>[대사]</td></tr>
 
-<tr><th class="voice-header">아젠티에 대해</th>
-<td>그자는 존재하지 않는 것에 대한 믿음이 너무나도 강인합니다. 진리의 선도자인 제가 이끌어드리는 수밖에요</td></tr>
+<tr><th class="voice-header">[캐릭터]에 대해</th>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">성흔 활성화</th>
-<td>진리는 그대를 좋은 삶의 방향으로 인도할 겁니다</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">캐릭터 승급</th>
-<td>깨달음에는 한계가 없습니다</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">캐릭터 최고 레벨</th>
-<td>풀지 못하는 논제란 없습니다. 그저 주체가 미지의 세계에 있을 뿐이죠</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">행적 활성화</th>
-<td>저는 그대의 가능성을 믿어요</td></tr>
+<td>[대사]</td></tr>
 
-<tr><th class="voice-header">파티 편성<br>• 아젠티</th>
-<td>방해나 안 되면 다행일텐데요</td></tr>
+<tr><th class="voice-header">파티 편성<br>• [캐릭터]</th>
+<td>[대사]</td></tr>
 </tbody>
 
     <!-- 전투 -->
@@ -496,73 +495,73 @@ main {
     <tbody id="battle" style="display:none;">
       <tr>
   <th class="voice-header">전투 시작•<br>약점 격파</th>
-  <td>이제 편히 잠드시길</td></tr>
+  <td>[대사]</td></tr>
 
 <tr><th class="voice-header">전투 시작•<br>위험 경보</th>
-  <td>가르침이 필요한가요?</td></tr>
+  <td>[대사]</td></tr>
 
 <tr><th class="voice-header">턴 시작 1</th>
-<td>제가 나서겠습니다</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">턴 시작 2</th>
-<td>그대에게 기대하고 있어요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">턴 대기</th>
-<td>지켜볼게요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전투 스킬•<br>1</th>
-<td>제가 시도해 볼게요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전투 스킬•<br>2</th>
-<td>그건 허무한 자기기만입니다</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">약공격 피격</th>
-<td>어이가 없군요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">강공격 피격</th>
-<td>그대는 품격이 없습니까?</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">필살기•<br>활성화</th>
-<td>겁이 없네요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">필살기•<br>발동</th>
-<td>당신은 고집을 버리는 편이 좋겠습니다</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전투 불능</th>
-<td>아직... 실현이...</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전투 복귀</th>
-<td>제가 보고 싶었나요?</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">HP 회복</th>
-<td>고마워요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">비술</th>
-<td>조용</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전투 승리</th>
-<td>증명해 냈나요?</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전리품 오픈•<br>1</th>
-<td>나쁘지 않네요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">전리품 오픈•<br>2</th>
-<td>이런 것도 있군요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">진귀한 전리품<br>오픈</th>
-<td>증명을 마치면 보상이 뒤따라오는 법이죠</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">수수께끼 풀이 성공•<br>1</th>
-<td>재밌네요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">수수께끼 풀이 성공•<br>2</th>
-<td>다른 놀이는 없나요?</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">적 발견</th>
-<td>조심 하세요</td></tr>
+<td>[대사]</td></tr>
 
 <tr><th class="voice-header">도시로 복귀</th>
-<td>떠들썩함이라... 그리운 향기네요</td></tr>
+<td>[대사]</td></tr>
       </tbody>
   </table>
 </section>
@@ -643,19 +642,19 @@ main {
 
   <section id="relation">
   <h2><span class="wiki-blue">4.</span> 인간관계</h2>
-  <p>• 아젠티</p>
+  <p>• [캐릭터]</p>
   <p></p>
-  <p>• 아젠티</p>
+  <p>• [캐릭터]</p>
   <p></p>
-  <p>• 아젠티</p>
+  <p>• [캐릭터]</p>
   <p></p>
-  <p>• 아젠티</p>
+  <p>• [캐릭터]</p>
   <p></p>
 
   
 
   <footer class="wiki-footer">
-    <p>parousia · Honkai: Star Rail</p>
+    <p>Not Hoyoverse · Honkai: Star Rail / © </p>
   </footer>
 
 <script>
