@@ -1,4 +1,4 @@
-# parousia
+# 파루시아
 1. < style> 태그 건들지 마세요!
 2. [글자] 부분 채워주시면 됩니다.
 3. wiki-blue color, #9eecff(기본적으로 세팅된 색상) 변경 가능합니다.
@@ -519,29 +519,59 @@ main {
 
      
   <section id="story">
-      <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
+  <h2><span class="wiki-blue">3.4.2.</span> 이야기</h2>
 
-  <button onclick="toggle('story1')">캐릭터 스토리 · 1</button>
-      <div id="story1" class="fold">
-        <p>Lv.20 개방</p>
-      </div>
+  <table class="wiki-table" style="border-collapse:collapse; width:100%;">
+    <tr>
+      <th style="width:30%;">구분</th>
+      <th>내용</th>
+    </tr>
 
-  <button onclick="toggle('story2')">캐릭터 스토리 · 2</button>
-      <div id="story2" class="fold">
-        <p>Lv.40 개방</p>
-      </div>
+  <tr>
+      <td colspan="2">
+        <details>
+          <summary><b>캐릭터 스토리 · 1</b></summary>
+          <p>
+            여기에 캐릭터 스토리 1 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
 
-  <button onclick="toggle('story3')">캐릭터 스토리 · 3</button>
-      <div id="story3" class="fold">
-        <p>Lv.60 개방</p>
-      </div>
+    <tr>
+      <td colspan="2">
+        <details>
+          <summary><b>캐릭터 스토리 · 2</b></summary>
+          <p>
+            여기에 캐릭터 스토리 2 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
 
-  <button onclick="toggle('story4')">캐릭터 스토리 · 4</button>
-      <div id="story4" class="fold">
-        <p>Lv.80 개방</p>
-      </div>
-    </section>
+    <tr>
+      <td colspan="2">
+        <details>
+          <summary><b>캐릭터 스토리 · 3</b></summary>
+          <p>
+            여기에 캐릭터 스토리 3 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
 
+    <tr>
+      <td colspan="2">
+        <details>
+          <summary><b>캐릭터 스토리 · 4</b></summary>
+          <p>
+            여기에 캐릭터 스토리 4 내용 작성
+          </p>
+        </details>
+      </td>
+    </tr>
+  </table>
+</section>
   </main>
 
 
