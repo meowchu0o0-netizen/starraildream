@@ -136,7 +136,17 @@ main {
   <table class="infobox-table">
     
   <tr class="infobox-title">
-      <th colspan="2">
+    <tr class="infobox-divider">
+      <td colspan="2"></td>
+    </tr>
+
+  .infobox-divider td {
+  height: 3px;
+  background-color: #c9a35a; /* 선 색 */
+  padding: 0;
+}
+
+  <th colspan="2">
         <center>[드림주 이름]</center><br>
         <span class="sub"><center>[드림주 영문 이름]</center></span>
       </th>
