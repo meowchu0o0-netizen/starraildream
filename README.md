@@ -174,7 +174,7 @@ main {
   display: inline-block;
   margin: 6px 0 16px 0;
   padding: 6px 14px;
-  background-color: #7b82c6;
+  background-color: #9eecff;
   color: #ffffff;
   border-radius: 8px;
   font-weight: 600;
