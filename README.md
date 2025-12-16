@@ -219,10 +219,10 @@ main {
     </tr>
     <tr>
       <th style="background:#fff; color:#000; border:none;">
-        출시 일자
+        언어별 표기
       </th>
       <td style="background:#fff; color:#000; border:none;">
-        2025/11/11
+        파루시아<br>Parousia<br>法鲁西亚<br>パルシア
       </td>
     </tr>
   </table>
