@@ -525,11 +525,18 @@ main {
       </th>
     </tr>
     <tbody id="battle" style="display:none;">
-      <tr><th>전투 시작•<br>
-          약점 격파</th><td>이제 편히 잠드시길</td></tr>
-        <tr><th>전투 시작<br>
-          위험 경보</th><td>가르침이 필요한가요?</td></tr>
-        <tr><th>턴 시작 1</th><td>제가 나서겠습니다</td></tr>
+      <tr><th style="background:#9eecff; color:#ffffff;">
+  전투 시작<br>•약점 격파
+</th><td>이제 편히 잠드시길</td></tr>
+        <tr><th style="background:#9eecff; color:#ffffff;">
+  전투 시작•위험 경보
+</th><td>가르침이 필요한가요?</td></tr>
+      <th style="background:#9eecff; color:#ffffff;">
+  턴 시작</th><td>제가 나서겠습니다</td>
+
+
+
+      
         <tr><th>턴 시작 2</th><td>그대에게 기대하고 있어요</td></tr>
         <tr><th>턴 대기</th><td>지켜볼게요</td></tr>
         <tr><th>전투 스킬•<br>
