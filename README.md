@@ -51,7 +51,99 @@ main {
   padding: 8px;
   width: 35%;
   border: 1px solid #dcdcdc;
-  font-weight: 문 이름]""
+  font-weight: 600;
+}
+
+.infobox-table td {
+  background-color: #f8f9fa;
+  color: #000;
+  padding: 8px;
+  border: 1px solid #dcdcdc;
+}
+
+.toc {
+  clear: both;
+  border: 2px solid #a2a9b1;
+  padding: 16px 20px;
+  max-width: 420px;
+  background-color: transparent;
+  margin: 20px 0;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc li {
+  margin: 4px 0;
+  line-height: 1.6;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #3366cc;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.toc .lv1 {
+  margin-left: 0;
+}
+
+.toc .lv2 {
+  margin-left: 20px;
+}
+
+.toc .lv3 {
+  margin-left: 40px;
+}
+
+.toc .lv4 {
+  margin-left: 60px;
+}
+
+
+
+@media (max-width: 768px) {
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+
+</style>
+</head>
+
+
+<body>
+  <div class="wiki-content">
+  <header class="wiki-header">
+  <h1>파루시아 <span class="en">parousia</span></h1>
+  <p class="subtitle">붕괴: 스타레일 플레이어블 캐릭터</p>
+</header>
+  
+<main>
+  <aside class="infobox">
+    
+<aside class="infobox">
+  <div class="clear"></div>
+
+  <table class="infobox-table">
+    
+  <tr class="infobox-title">
+      <th colspan="2">
+        [드림주 이름]<br>
+        <span class="sub">[드림주 영문 이름]</span>
+      </th>
+    </tr>
+    <tr class="infobox-image">
+      <td colspan="2">
+        <img src="이미지주소.jpg" alt="[드림주 이름]">
       </td>
     </tr>
     <tr><th>이름</th><td>[드림주 이름]</td></tr>
@@ -61,6 +153,7 @@ main {
     <tr><th>속성</th><td>[속성]</td></tr>
     <tr><th>운명의 길</th><td>[운명의 길]</td></tr>
     <tr><th>출시일</th><td>[2025-00-00]</td></tr>
+   </table>
 </aside>
 
 <nav class="toc">
